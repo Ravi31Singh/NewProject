@@ -7,7 +7,7 @@ namespace MyApplication
     {
       int x = 5;
       int y = 6;
-      Console.WriteLine(x + y);
+      Console.WriteLine("sum of x and y is"+(x + y));
     }
   }
 }
